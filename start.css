@@ -4,14 +4,16 @@ img{
 }
 h1{
     position: absolute;
-    top: 4%;
-    left: 38.5%;
+    top: 2%;
+    left: 30%;
     color: rgb(229, 187, 151);
+    font-size: 30px;
 }
 h2{
     position: absolute;
-    top: 80px;
-    right: 100px;
+    top: 60px;
+    right: 60px;
+    font-size: 20px;
 }
 h2 a {
     text-decoration: none;
@@ -20,8 +22,8 @@ h2 a {
 .poem{
     position: absolute;
     color: beige;
-    top: 150px;
-    left: 80px;
+    top: 100px;
+    left: 40px;
 }
 #gallery {
     display: flex;
